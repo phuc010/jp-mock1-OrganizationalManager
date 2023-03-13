@@ -1,0 +1,42 @@
+@charset "UTF-8";
+#Org-Short-Dec {
+    height: 90px !important;
+}
+
+.SIC-Code {
+    width: 100px !important;
+}
+
+.Full-Description {
+    height: 90px !important;
+}
+
+.save,
+.back {
+    background-color: white;
+    background-image: linear-gradient(white, rgb(215, 213, 213), white);
+    border: solid 1px grey !important;
+    padding: 1px !important;
+    width: 90px !important;
+    margin: 0 10px;
+    border-radius: 4px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.main-input {
+    border: solid 1px grey;
+    padding: 5px !important;
+}
+
+.main-input2 {
+    margin: 2px !important;
+    padding: 10px !important;
+    border: solid 1px grey;
+}
+
+.details1{
+	border: solid 1px black !important;
+}
