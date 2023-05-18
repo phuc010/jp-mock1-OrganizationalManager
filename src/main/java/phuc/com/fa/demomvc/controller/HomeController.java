@@ -1,7 +1,5 @@
 package phuc.com.fa.demomvc.controller;
-
 import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -11,11 +9,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
-
 import phuc.com.fa.demomvc.entity.Organisation;
 import phuc.com.fa.demomvc.page.PageAble;
 import phuc.com.fa.demomvc.service.OrganisationServiceImpl;
-
 /* Inside the controller there will be many methods,
  * each of which will catch a specific request */
 @Controller
